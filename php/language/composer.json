@@ -2,6 +2,23 @@
     "name": "fabrikadev/language",
     "description": "Get Language from browser",
     "type": "library",
+    "keywords": [
+        "language",
+        "browser"
+    ],
+    "homepage": "https://github.com/fabrikadev/language",
+    "license": "MIT",
+    "source": {
+        "type": "git", "url": "https://github.com/fabrikadev/language", 
+        "reference": "",   
+        "directory": "https://github.com/fabrikadev/language",
+        "host": "github.com",
+        "owner": "FabrikaDev",
+        "name": "fabrikadev/language",
+        "branch": "main",
+        "path": "fabrika-dev/language",
+        "git_url": "https://github.com/fabrikadev/language" 
+    },
     "authors": [
         {
             "name": "davidsnege",

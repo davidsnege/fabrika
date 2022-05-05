@@ -1,0 +1,14 @@
+{
+    "name": "fabrikadev/language",
+    "description": "Get Language from browser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "davidsnege",
+            "email": "david.snege@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
+ 
